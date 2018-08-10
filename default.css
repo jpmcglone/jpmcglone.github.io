@@ -72,9 +72,10 @@ a:hover {
 }
 
 .content {
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
   	margin-top: 50pt;
-  	width: 650pt;
+  	width: 550pt;
 }
 
 .inner-content {
