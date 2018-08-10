@@ -1,6 +1,4 @@
 body {
-	width: 600pt;
-	margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -74,6 +72,7 @@ a:hover {
 }
 
 .content {
+	margin: auto;
   	margin-top: 50pt;
   	width: 600pt;
 }
@@ -81,6 +80,7 @@ a:hover {
 .inner-content {
 	margin-left: 50pt;
 	width: 500pt;
+	margin-right: 50pt;
 }
 
 .header {
