@@ -1,0 +1,98 @@
+body {
+	width: 500pt;
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	color: #3571b8;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f89b1c;
+	text-decoration: none
+}
+
+.icon_container {
+	text-align: center;
+}
+
+.icon {
+	height: 50pt;
+	width: 50pt;
+	margin-left: 10pt;
+	margin-right: 10pt;
+	border-radius: 10pt;
+	background-size: 50pt 50pt;
+	float: left;
+}
+
+.left {
+	margin-left: 155pt;
+}
+
+.right {
+	margin-right: 155pt;
+}
+.icon:hover {
+	border-width: 5pt;
+	border-color: #f89b1c;
+}
+
+.facebook {
+	background-image: url("/images/facebook.png");
+}
+.twitter {
+	background-image: url("/images/twitter.png");
+}
+.instagram {
+	background-image: url("/images/instagram.png");
+}
+
+.clear {
+	clear: both;
+}
+.quote {
+	background-image: url("/images/quote.jpg");
+}
+
+.description {
+	margin-top: 40pt;
+}
+
+.big {
+	font-size: 16pt;
+	font-weight: heavy;
+}
+.description-line {
+	height: 1pt;
+	background-color: #eeeeee;
+	width: 100%;
+	margin-bottom: 40pt;
+	margin-top: -10pt;
+}
+
+.content {
+  	margin-top: 50pt;
+  	width: 500pt;
+}
+
+.header {
+	text-align: center;
+}
+
+.footer {
+	color: #999999;
+	text-align: center;
+	font-size: 10pt;
+	margin-bottom: 40pt;
+}
+
+.line {
+	height: 1pt;
+	background-color: #eeeeee;
+	width: 100%;
+	margin-top: 40pt;
+	margin-bottom: 40pt;
+}
