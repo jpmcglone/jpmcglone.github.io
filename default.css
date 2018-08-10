@@ -27,11 +27,11 @@ a:hover {
 }
 
 .left {
-	margin-left: 155pt;
+	margin-left: 130pt;
 }
 
 .right {
-	margin-right: 155pt;
+	margin-right: 130pt;
 }
 .icon:hover {
 	border-width: 5pt;
@@ -74,12 +74,12 @@ a:hover {
 .content {
 	margin: auto;
   	margin-top: 50pt;
-  	width: 600pt;
+  	width: 650pt;
 }
 
 .inner-content {
 	margin-left: 50pt;
-	width: 500pt;
+	width: 450pt;
 	margin-right: 50pt;
 }
 
