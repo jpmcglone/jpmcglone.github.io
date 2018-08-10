@@ -1,4 +1,5 @@
 body {
+	margin: 0;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -63,6 +64,15 @@ a:hover {
 	font-size: 16pt;
 	font-weight: heavy;
 }
+
+.bar {
+	text-align: center;
+	background-color: #163e57;
+	width: 100%;
+	padding-top: 20pt;
+	padding-bottom: 20pt;
+}
+
 .description-line {
 	height: 1pt;
 	background-color: #eeeeee;
@@ -74,7 +84,6 @@ a:hover {
 .content {
 	margin-left: auto;
 	margin-right: auto;
-  	margin-top: 50pt;
   	width: 550pt;
 }
 
@@ -85,7 +94,7 @@ a:hover {
 }
 
 .header {
-	text-align: center;
+
 }
 
 .footer {
