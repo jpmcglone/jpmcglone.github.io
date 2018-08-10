@@ -75,7 +75,11 @@ a:hover {
 
 .content {
   	margin-top: 50pt;
-  	width: 500pt;
+  	width: 600pt;
+}
+.inner-content {
+	margin-left: 50;
+	width: 500pt;
 }
 
 .header {
