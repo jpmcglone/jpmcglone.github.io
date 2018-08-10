@@ -1,5 +1,5 @@
 body {
-	margin: 0;
+	margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 }
 
@@ -68,6 +68,8 @@ a:hover {
 .bar {
 	text-align: center;
 	background-color: #163e57;
+	margin-left: 0;
+	margin-right: 0;
 	width: 100%;
 	padding-top: 20pt;
 	padding-bottom: 20pt;
