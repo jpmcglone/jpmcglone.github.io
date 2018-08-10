@@ -1,5 +1,5 @@
 body {
-	width: 500pt;
+	width: 600pt;
 	margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 }
@@ -79,7 +79,7 @@ a:hover {
 }
 
 .inner-content {
-	margin-left: 50;
+	margin-left: 50pt;
 	width: 500pt;
 }
 
