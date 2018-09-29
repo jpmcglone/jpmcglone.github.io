@@ -17,6 +17,35 @@ a:hover {
 	text-align: center;
 }
 
+.navigation {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-bottom: -20pt;
+    margin-top: 15pt;
+}
+
+.navigation li {
+	float: left;
+}
+
+.active {
+	background-color: #3b70b5;
+}
+
+.navigation li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+.navigation li a:hover {
+	background-color: #133145;
+}
+
 .icon {
 	height: 50pt;
 	width: 50pt;
